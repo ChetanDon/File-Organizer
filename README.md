@@ -14,5 +14,5 @@ A lightweight Python automation utility built to sort unstructured directories i
 ## Setup & Run Instructions
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ChetanDon/File-Organizer
    cd file_organizer_project
